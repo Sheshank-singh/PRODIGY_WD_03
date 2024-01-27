@@ -4,7 +4,7 @@
 
 <h3>Description:</h3>
 
-Welcome to the Ultimate Tic Tac Toe challenge, a strategic twist on the classic game. This web application, developed by [Your Name], brings an engaging experience with a visually appealing design.
+Welcome to the Ultimate Tic Tac Toe challenge, a strategic twist on the classic game. This web application, developed by Sheshank Singh, brings an engaging experience with a visually appealing design.
 
 <h3>Features:</h3>
 
